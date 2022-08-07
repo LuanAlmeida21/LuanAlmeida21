@@ -33,5 +33,3 @@
 
 <img href="https://raw.githubusercontent.com/LuanAlmeida21/LuanAlmeida21/blob/output/snake.svg" alt="Snake animation" />
 
-###
-Profile Readme Generator
