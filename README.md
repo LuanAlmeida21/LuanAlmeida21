@@ -24,11 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
 </div>
 
-###
-
-<img href="https://raw.githubusercontent.com/LuanAlmeida21/LuanAlmeida21/blob/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=LuanAlmeida21" height="150" alt="stats graph"  />
