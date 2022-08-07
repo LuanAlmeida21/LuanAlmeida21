@@ -27,9 +27,11 @@
 ###
 
 <div align="left">
+  
+  ![Snake animation](https://github.com/LuanAlmeida21/LuanAlmeida21/blob/output/github-contribution-grid-snake.svg)  
+  
 </div>
 
 ###
 
-<img href="https://raw.githubusercontent.com/LuanAlmeida21/LuanAlmeida21/blob/output/snake.svg" alt="Snake animation" />
 
