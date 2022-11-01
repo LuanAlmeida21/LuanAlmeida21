@@ -7,12 +7,6 @@
 ###
 
 <div align="left">
-  <a href="https://www.facebook.com/luan.almeida.50951/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/_luan_almeida/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGMTJNVVdVSblzCxsjDfRjFmvbVxBlbVLFTWCXLsqcvtGBGFdKlqRcLWZwbWrVBZVWlPMJD" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
